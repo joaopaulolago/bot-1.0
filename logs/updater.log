@@ -1,0 +1,7 @@
+2026-03-25 14:34:22,584  INFO  ──────────────────────────────────────────────────
+2026-03-25 14:34:22,585  INFO  🔄 Iniciando ciclo de atualização  [14:34:22]
+2026-03-25 14:34:39,324  INFO  ✅ bitcoin      + 714 novas candles  (total baixado: 714)
+2026-03-25 14:34:40,041  INFO  ✅ ethereum     + 714 novas candles  (total baixado: 714)
+2026-03-25 14:34:40,872  INFO  ✅ ouro         + 566 novas candles  (total baixado: 566)
+2026-03-25 14:34:41,507  INFO  ✅ petroleo     + 566 novas candles  (total baixado: 566)
+2026-03-25 14:34:41,507  INFO  ✅ Ciclo concluído
